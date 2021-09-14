@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eletrace/static/css/main.1c01dc44.chunk.css",
+    "main.js": "/eletrace/static/js/main.998e322a.chunk.js",
+    "main.js.map": "/eletrace/static/js/main.998e322a.chunk.js.map",
+    "runtime-main.js": "/eletrace/static/js/runtime-main.d44bed34.js",
+    "runtime-main.js.map": "/eletrace/static/js/runtime-main.d44bed34.js.map",
+    "static/js/2.8a3691c9.chunk.js": "/eletrace/static/js/2.8a3691c9.chunk.js",
+    "static/js/2.8a3691c9.chunk.js.map": "/eletrace/static/js/2.8a3691c9.chunk.js.map",
+    "index.html": "/eletrace/index.html",
+    "precache-manifest.e37f844244cc85577bb17930aa79cd59.js": "/eletrace/precache-manifest.e37f844244cc85577bb17930aa79cd59.js",
+    "service-worker.js": "/eletrace/service-worker.js",
+    "static/css/main.1c01dc44.chunk.css.map": "/eletrace/static/css/main.1c01dc44.chunk.css.map",
+    "static/js/2.8a3691c9.chunk.js.LICENSE.txt": "/eletrace/static/js/2.8a3691c9.chunk.js.LICENSE.txt",
+    "static/media/box-image1.png": "/eletrace/static/media/box-image1.7e097849.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d44bed34.js",
+    "static/js/2.8a3691c9.chunk.js",
+    "static/css/main.1c01dc44.chunk.css",
+    "static/js/main.998e322a.chunk.js"
+  ]
+}
